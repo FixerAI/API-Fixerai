@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+E:\1TDSPV\Challenge\APIFixerai\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index

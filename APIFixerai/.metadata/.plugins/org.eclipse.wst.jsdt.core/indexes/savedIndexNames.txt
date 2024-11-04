@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+E:\1TDSPV\Challenge\APIFixerai\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3154730585.index
+466006080.index
+3868498443.index
+2435011346.index
+2553731840.index
+976499470.index
+3697674203.index
+4267476971.index
